@@ -37,8 +37,7 @@ myConfig = {
     }
 }
 
-
-    
+   
 # Constants for IBM COS values
 COS_ENDPOINT = "https://s3.jp-tok.cloud-object-storage.appdomain.cloud" 
 COS_API_KEY_ID = "78NLlHvfEUxheNWr4jehqUGifUPewWVaPrk3N2HXaMKy" 
