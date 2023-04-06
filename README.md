@@ -1,2 +1,2 @@
-# First_Repository
-This is my first repository for testing GIT
+# Automation OF Garages
+This is part of my IBM Externship Project
